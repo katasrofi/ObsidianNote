@@ -1,0 +1,6 @@
+- Type of NLP
+	- Chatbot
+	- Audio Frequency analysis
+	- Bag-of-words-model
+	- CNN for Text recognition
+	- Seq2seq

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0b3186bd8ac5013e","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"PyTorch"},
+		{"id":"4c5f5ee7d8750d20","x":-125,"y":-320,"width":250,"height":60,"type":"text","text":"Tensors"}
+	],
+	"edges":[
+		{"id":"91de4e2a440d99df","fromNode":"0b3186bd8ac5013e","fromSide":"top","toNode":"4c5f5ee7d8750d20","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,14 @@
+- For Officiial Work use Tableau desktop (required licence)
+- Use Tableau public just only for training or when you don't have money to afford tableau desktop
+- Tableau public only can read file .twbx not .twb
+- Data Modelling
+	- Logical
+		- Big Picture - Simple
+	- Concept
+		- Blue Print
+	- Phisycal
+		- Implementation from Concept
+	- Schema
+		- Star Schema - Small/Medium dataset
+		- SnowFlake Schema - Large dataset
+- 
